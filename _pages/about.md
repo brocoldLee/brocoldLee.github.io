@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Welcome to my space!<br>
+**Welcome to my space!**
 I recently received a master’s degree in Exercise Physiology from the University of Seoul, South Korea<br> 
 During my studies, I explored how exercise influences both physical and psychological outcomes,<br> 
 and gained experience in conducting research on exercise interventions and behavioral health.<br>
