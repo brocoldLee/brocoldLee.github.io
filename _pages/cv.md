@@ -8,6 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
+[View PDF CV](/files/HyeongChan_Lee_CV.pdf){: .btn .btn--primary }
+
 Education
 ======
 * M.S. in Exercie physiolpogy, University of seoul, 2026
