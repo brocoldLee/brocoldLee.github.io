@@ -8,5 +8,16 @@ date: 2024-05-01
 location: "South Korea"
 ---
 
+
+
 Oral presentation on the accuracy of wearable devices in heart rate monitoring.
-![](/images/wearable.jpg)
+
+
+<details>
+<summary>View Presentation Photo</summary>
+
+![](/images/wearable.jifif)
+
+</details>
+
+
