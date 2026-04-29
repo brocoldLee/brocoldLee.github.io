@@ -14,7 +14,7 @@ repository               : "brocoldLee/brocoldLee.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profle photo.jpg"
+  avatar           : "photo"
   name             : "Hyeong Chan Lee"
   pronouns         : # example: "she/her"  
   bio              : "Exercise Physiology · Sports Science · Health Informatics"
@@ -26,16 +26,13 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.co.kr/citations?user=HIsmtnEAAAAJ&hl=ko"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0001-8393-5033"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  
+
 
 
   # Repositories and software development
