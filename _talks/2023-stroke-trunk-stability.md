@@ -8,5 +8,10 @@ date: 2023-01-01
 location: "South Korea"
 ---
 
+
+<details>
+<summary>View Presentation Photo</summary>
+
 Poster presentation on rehabilitation interventions in stroke patients.
 ![](/images/stroke.jpg)
+</details>
