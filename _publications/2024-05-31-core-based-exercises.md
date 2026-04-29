@@ -8,7 +8,7 @@ date: 2024-05-31
 venue: "Exercise Science"
 paperurl: "https://doi.org/10.15857/ksep.2024.00164"
 citation: >
-  <b>Lee, H. C.</b>., Lee, J. H., & Ha, M. S. (2024).
+  <b>Lee, H. C.</b>, Lee, J. H., & Ha, M. S. (2024).
   Role of Core-Based Exercises in Improving Proprioception among Individuals with Neurological Disorders:
   A Systematic Literature Review and Meta-Analysis.
   Exercise Science, 33(2), 149–159.
