@@ -12,4 +12,3 @@ Poster presentation on metabolic and inflammatory markers in childhood obesity.
 ![](/images/obesity.jpg)
 <p align="center">
   <img src="/images/obesity-poster.jpg" width="400">
-</p>
