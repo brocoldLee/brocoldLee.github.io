@@ -9,4 +9,10 @@ location: "International Conference"
 ---
 
 Poster presentation on metabolic and inflammatory markers in childhood obesity.
+
+<details>
+<summary>View Presentation Photo</summary>
+
 ![](/images/obesity.jpg)
+
+</details>
