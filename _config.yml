@@ -1,7 +1,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "HyeongChan Lee"
+title                    : "Chan"
 title_separator          : "-"
 name                     : &name "Hyeong Chan Lee"
 description              : &description "Sports Science and Health Informatics"
@@ -26,8 +26,7 @@ author:
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.co.kr/citations?user=HIsmtnEAAAAJ&hl=ko"
-  orcid            :  0009-0001-8393-5033
-
+  orcid            :  https://orcid.org/0009-0001-8393-5033
 
 
   # Repositories and software development
