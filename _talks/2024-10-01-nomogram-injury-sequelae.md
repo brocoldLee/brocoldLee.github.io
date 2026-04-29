@@ -9,3 +9,4 @@ location: "South Korea"
 ---
 
 Oral presentation at the 62nd Academic Conference of the Korean Society of Sport Sciences, held in commemoration of the 105th National Sports Festival.
+![](/images/nomogram.jpg)
