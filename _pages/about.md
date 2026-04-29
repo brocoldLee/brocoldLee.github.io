@@ -13,6 +13,10 @@ I recently received a master’s degree in Exercise Physiology from the Universi
 
 My interests lie at the intersection of sports science and health informatics. I am particularly interested in using data-driven approaches to better understand human behavior and to develop personalized exercise and health strategies.
 
+<p align="center">
+  <img src="/images/main.jpeg" width="400">
+</p>
+
 ## Beyond Research
 
 Outside of research, I enjoy playing soccer, tennis, and weight training, and I occasionally participate in competitions. I also enjoy traveling, especially exploring less well-known destinations.
