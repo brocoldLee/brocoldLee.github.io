@@ -6,18 +6,9 @@ permalink: /talks/2024-wearable-heart-rate
 venue: "Spring Conference of the Korean Society of Exercise Nutrition"
 date: 2024-05-01
 location: "South Korea"
+excerpt: "Oral presentation on the accuracy of wearable devices in heart rate monitoring."
 ---
-
-
 
 Oral presentation on the accuracy of wearable devices in heart rate monitoring.
 
-
-<details>
-<summary>View Presentation Photo</summary>
-
-![](/images/wearable.jifif)
-
-</details>
-
-
+![](/images/wearable.jpg)
