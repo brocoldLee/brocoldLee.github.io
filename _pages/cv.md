@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Exercie physiolpogy, University of seoul, 2024
-* B.S. in Sports science, University of seoul, 2026
+* M.S. in Exercie physiolpogy, University of seoul, 2026
+* B.S. in Sports science, University of seoul, 2024
 
 Work experience
 ======
