@@ -14,7 +14,7 @@ repository               : "brocoldLee/brocoldLee.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo4.png"
   name             : "Hyeong Chan Lee"
   pronouns         : # example: "she/her"  
   bio              : "Exercise Physiology · Sports Science · Health Informatics"
@@ -41,8 +41,8 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  instagram        : # Username
-  linkedin         : # Username
+  instagram        : https://www.instagram.com/woga_woga
+  linkedin         : www.linkedin.com/in/lhc-a059b53bb
   telegram         : # URL
 
 
