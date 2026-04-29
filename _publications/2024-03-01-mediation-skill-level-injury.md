@@ -6,7 +6,7 @@ permalink: /publication/2024-03-01-mediation-skill-level-injury
 excerpt: "This study examined the mediating effect of skill level on the relationship between participation frequency and injury severity among leisure sports participants."
 date: 2024-03-01
 venue: "Korean Journal of Sport Science"
-paperurl: doi:10.24985/kjss.2024.35.1.170
+paperurl: http//doi:10.24985/kjss.2024.35.1.170
 citation: >
   Lee, J., <b>Lee, H. C.</b>, Jeong, H. N., Ha, M. S., & Oh, Y. S. (2024).
   Mediation Effect of Skill Levels in the Relationship Between Degree of Participation and Injury Experience on Leisure Sports Participants:
