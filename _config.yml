@@ -4,7 +4,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "HyeongChan Lee"
 title_separator          : "-"
 name                     : &name "Hyeong Chan Lee"
-description              : &description "Sports Science and Health Informatics
+description              : &description "Sports Science and Health Informatics"
 url                      : https://brocoldLee.github.io
 baseurl                  : ""
 repository               : "brocoldLee/brocoldLee.github.io"
@@ -20,7 +20,7 @@ author:
   bio              : "Exercise Physiology"
   location         : "Seoul, South Korea"
   employer         : "University of Seoul"
-  email            : "mailto:lhc1031@uos.ac.kr" 
+  email            : "lhc1031@uos.ac.kr" 
 
   # Academic websites
   academia         : # URL
