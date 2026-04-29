@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Role of core-based exercises in improving proprioception among individuals with neurological disorders: a systematic literature review and meta-analysis"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2024-05-31-paper-title-number-1
+excerpt:"This systematic review and meta-analysis examined the effects of core-based exercises on proprioception among individuals with neurological disorders."
+date: 2024-05-31
+venue: 'Exercise Science'
+paperurl: ['[https://academicpages.github.io/files/paper1.pdf](https://doi.org/10.15857/ksep.2024.00164)'](https://doi.org/10.15857/ksep.2024.00164)
+citation: "Lee, H. C., Lee, J. H., & Ha, M. S. (2024). &quot;Role of Core-Based Exercises in Improving Proprioception among Individuals with Neurological Disorders: A Systematic Literature Review and Meta-Analysis.&quot; <i>Exercise Science</i>, 33(2), 149-159. https://doi.org/10.15857/ksep.2024.00164"
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This study aimed to examine the effects of core-based exercises on proprioception among individuals with neurological disorders through a systematic literature review and meta-analysis. The findings suggest that core-based exercises may improve proprioceptive function, particularly joint position sense and kinesthetic sense, in this population.
