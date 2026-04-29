@@ -15,6 +15,3 @@ I am particularly interested in using data-driven approaches to better understan
 and to develop personalized exercise and health strategies.
 
 
-## Research Vision
-
-My goal is to become a researcher who contributes to improving society through sports science.
