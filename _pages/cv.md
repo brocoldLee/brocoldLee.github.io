@@ -16,20 +16,35 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Exercise Specialist (Metabolic Syndrome Program)**  
+Dongdaemun Public Health Center, Seoul, South Korea  
+Sep 2025 – Feb 2026  
+- Delivered exercise prescription programs for individuals with metabolic syndrome  
+- Provided personalized counseling and managed health promotion programs  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Principal Investigator (Master’s Research Grant)**  
+National Research Foundation of Korea  
+Jul 2024 – Jul 2025  
+- Led a funded research project on exercise intervention and behavioral outcomes  
+- Designed study protocol, conducted data analysis, and managed research execution  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Instructor (Youth Sports Program)**  
+Dream Together Center  
+Feb 2024 – Jan 2025  
+- Conducted soccer training sessions for children with developmental disabilities  
+- Designed and implemented inclusive sports programs  
+
+**Research Assistant**  
+Ministry of Education, South Korea  
+Mar 2023 – Apr 2024  
+- Participated in government-funded research projects  
+- Supported data collection, analysis, and reporting  
+
+**Research Assistant**  
+Industry-Academic Cooperation Foundation, University of Seoul  
+May 2023 – Aug 2023  
+- Contributed to policy-related research projects on university development  
+- Assisted in research planning and documentation  
   
 
 Publications
