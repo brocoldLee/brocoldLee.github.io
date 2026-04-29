@@ -14,13 +14,12 @@ repository               : "brocoldLee/brocoldLee.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo"
+  avatar           : "photo4.png"
   name             : "Hyeong Chan Lee"
   pronouns         : # example: "she/her"  
   bio              : "Exercise Physiology · Sports Science · Health Informatics"
   location         : "Seoul, South Korea"
   employer         : "University of Seoul"
-  uri              : # URL
   email            : "lhc1031@uos.ac.kr" 
 
   # Academic websites
