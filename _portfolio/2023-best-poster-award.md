@@ -1,6 +1,6 @@
 ---
 title: "Best Poster Award (2023)"
-excerpt: "Best Poster Award, Korean Society of Exercise Physiology (2023)<br/><img src='/images/exercise-physiology.jpg'>"
+excerpt: "Best Poster Award, Korean Society of Exercise Physiology (2023)<br/><img src='/images/Exercise physiology.jpg'>"
 collection: portfolio
 ---
 
