@@ -3,8 +3,8 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "HyeongChan Lee"
 title_separator          : "-"
-name                     : &name "HyeongChan Lee"
-description              : &description "Sports Science, Health Informatics, and AI for Human Health"
+name                     : &name "Hyeong Chan Lee"
+description              : &description "Sports Science and Health Informatics
 url                      : https://brocoldLee.github.io
 baseurl                  : ""
 repository               : "brocoldLee/brocoldLee.github.io"
@@ -17,20 +17,16 @@ author:
   avatar           : "photo4.png"
   name             : "Hyeong Chan Lee"
   pronouns         : # example: "she/her"  
-  bio              : "Exercise Physiology
+  bio              : "Exercise Physiology"
   location         : "Seoul, South Korea"
   employer         : "University of Seoul"
-  email            : "lhc1031@uos.ac.kr" 
+  email            : "mailto:lhc1031@uos.ac.kr" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.co.kr/citations?user=HIsmtnEAAAAJ&hl=ko"
-  inspire-hep      : # URL
-  impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0001-8393-5033"
-  semantic         : # URL
-  ssrn             : # URL
 
 
 
@@ -42,8 +38,8 @@ author:
 
   # Social media
   instagram        : https://www.instagram.com/woga_woga
-  linkedin         : www.linkedin.com/in/lhc-a059b53bb
-  telegram         : # URL
+  linkedin         : https://www.linkedin.com/in/lhc-a059b53bb
+
 
 
 # Publication Category - The following the list of publication categories and their headings
