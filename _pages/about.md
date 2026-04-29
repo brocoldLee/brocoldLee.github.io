@@ -12,7 +12,7 @@ redirect_from:
 I recently received a master’s degree in Exercise Physiology from the University of Seoul, South Korea. During my studies, I explored how exercise influences both physical and psychological outcomes and gained experience conducting research on exercise interventions and behavioral health.
 
 <p align="center">
-  <img src="/images/Main.HEIC" width="400">
+  <img src="/images/Main.jpeg" width="400">
 </p>
 
 
