@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Comparative Study of Wearable Device Accuracy in Heart Rate Monitoring<br />Spring Conference of the Korean Society of Exercise Nutrition; South Korea",
+    36.638392,
+    127.6961188
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Can Trunk Stability Exercise Improve Cognitive Function: Review and Future Directions<br />35th International Sport Science Congress; South Korea",
+    36.638392,
+    127.6961188
+  ],
+  [
+    "Exploration of Risk Factors for Sequelae of Injuries among Recreational Sports Participants and Application of a Nomogram<br />62nd Academic Conference of the Korean Society of Sport Sciences; South Korea",
+    36.638392,
+    127.6961188
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
     37.8708393,
     -122.272863
-  ],
-  [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
   ]
 ];
