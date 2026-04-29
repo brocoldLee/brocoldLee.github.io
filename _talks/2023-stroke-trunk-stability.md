@@ -10,7 +10,9 @@ location: "South Korea"
 
 
 Poster presentation on rehabilitation interventions in stroke patients.
+
 <details>
 <summary>View Presentation Photo</summary>
+  
 ![](/images/stroke.jpg)
 </details>
