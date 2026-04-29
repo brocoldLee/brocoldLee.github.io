@@ -9,3 +9,4 @@ location: "South Korea"
 ---
 
 Oral presentation on the accuracy of wearable devices in heart rate monitoring.
+![](/images/wearable.jpg)
