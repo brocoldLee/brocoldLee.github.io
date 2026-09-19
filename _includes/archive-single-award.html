@@ -8,6 +8,7 @@
         src="{{ post.thumbnail }}"
         alt="{{ post.title }}"
         class="presentation-card__image"
+        {% if post.thumbnail_fit %}style="object-fit: {{ post.thumbnail_fit }};"{% endif %}
       >
     {% else %}
       <div class="presentation-card__placeholder">
