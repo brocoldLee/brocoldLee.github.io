@@ -227,3 +227,15 @@
 body {
   padding-bottom: 0 !important;
 }
+
+
+/* Award rows without images */
+.presentation-card--no-image {
+  grid-template-columns: minmax(0, 1fr) 18px;
+}
+
+@media (max-width: 700px) {
+  .presentation-card--no-image {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
