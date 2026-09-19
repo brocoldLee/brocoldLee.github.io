@@ -62,174 +62,126 @@
   border-bottom: 1px solid rgba(127, 127, 127, 0.22);
 }
 
-
-/* Thumbnail box */
-
 .presentation-card__media {
   width: 130px;
   height: 82px;
-
   overflow: hidden;
   border-radius: 4px;
 }
 
-
-/* Force every thumbnail to exactly same size */
-
 .presentation-card__image {
   display: block;
-
   width: 130px !important;
   height: 82px !important;
   max-width: none !important;
-
   object-fit: cover;
   object-position: center;
-
   margin: 0 !important;
   border-radius: 4px;
 }
 
-
-/* Placeholder */
-
 .presentation-card__placeholder {
   width: 130px;
   height: 82px;
-
   display: flex;
   align-items: center;
   justify-content: center;
-
   box-sizing: border-box;
   border: 1px dashed rgba(127, 127, 127, 0.34);
   border-radius: 4px;
-  background:
-    linear-gradient(135deg, rgba(127, 127, 127, 0.08), rgba(127, 127, 127, 0.025));
-
+  background: linear-gradient(135deg, rgba(127, 127, 127, 0.08), rgba(127, 127, 127, 0.025));
   color: rgba(127, 127, 127, 0.78);
   font-size: 0.58rem;
   font-weight: 600;
   letter-spacing: 0.12em;
 }
 
-
-/* Text */
-
-.presentation-card__content {
-  min-width: 0;
-}
-
-.presentation-card__title {
-  margin: 0 0 0.22rem 0;
-
-  font-size: 0.95rem;
-  line-height: 1.3;
-}
-
-.presentation-card__venue {
-  margin-bottom: 0.1rem;
-
-  font-size: 0.78rem;
-  line-height: 1.35;
-
-  opacity: 0.78;
-}
-
-.presentation-card__meta {
-  margin-bottom: 0.3rem;
-
-  font-size: 0.74rem;
-  opacity: 0.62;
-}
-
-
-/* Presentation type */
-
-.presentation-card__badge {
-  display: inline-block;
-
-  margin-bottom: 0.25rem;
-  padding: 0.12rem 0.42rem;
-
-  border-radius: 999px;
-
-  background: rgba(0, 110, 220, 0.10);
-  color: #006dcc;
-
-  font-size: 0.65rem;
-}
-
-
-/* Description */
-
-.presentation-card__excerpt {
-  font-size: 0.75rem;
-  line-height: 1.35;
-
-  opacity: 0.7;
-}
-
-
-/* Arrow */
-
-.presentation-card__arrow {
-  font-size: 1.3rem;
-  opacity: 0.35;
-
-  text-align: right;
-}
-
-
-.presentation-card:hover .presentation-card__title {
-  text-decoration: underline;
-}
-
-
-/* Mobile */
+.presentation-card__content { min-width: 0; }
+.presentation-card__title { margin: 0 0 0.22rem 0; font-size: 0.95rem; line-height: 1.3; }
+.presentation-card__venue { margin-bottom: 0.1rem; font-size: 0.78rem; line-height: 1.35; opacity: 0.78; }
+.presentation-card__meta { margin-bottom: 0.3rem; font-size: 0.74rem; opacity: 0.62; }
+.presentation-card__badge { display: inline-block; margin-bottom: 0.25rem; padding: 0.12rem 0.42rem; border-radius: 999px; background: rgba(0, 110, 220, 0.10); color: #006dcc; font-size: 0.65rem; }
+.presentation-card__excerpt { font-size: 0.75rem; line-height: 1.35; opacity: 0.7; }
+.presentation-card__arrow { font-size: 1.3rem; opacity: 0.35; text-align: right; }
+.presentation-card:hover .presentation-card__title { text-decoration: underline; }
 
 @media (max-width: 700px) {
-
-  .presentation-card {
-    grid-template-columns: 90px minmax(0, 1fr);
-    gap: 0.65rem;
-
-    padding: 0.7rem 0;
-  }
-
-  .presentation-card__media {
-    width: 90px;
-    height: 62px;
-  }
-
-  .presentation-card__image,
-  .presentation-card__placeholder {
-    width: 90px !important;
-    height: 62px !important;
-  }
-
-  .presentation-card__arrow {
-    display: none;
-  }
-
-  .presentation-card__title {
-    font-size: 0.88rem;
-  }
-
-  .presentation-card__excerpt {
-    display: none;
-  }
+  .presentation-card { grid-template-columns: 90px minmax(0, 1fr); gap: 0.65rem; padding: 0.7rem 0; }
+  .presentation-card__media { width: 90px; height: 62px; }
+  .presentation-card__image, .presentation-card__placeholder { width: 90px !important; height: 62px !important; }
+  .presentation-card__arrow { display: none; }
+  .presentation-card__title { font-size: 0.88rem; }
+  .presentation-card__excerpt { display: none; }
 }
 
+.page__footer { display: none !important; }
+body { padding-bottom: 0 !important; }
 
 /* ================================
-   Hide site footer
+   Beyond Research photo journal
    ================================ */
 
-.page__footer {
-  display: none !important;
+.archive:has(> .beyond-research-page) {
+  float: none;
+  width: 100%;
+  margin: 0 auto 2em;
+  padding: 0;
 }
 
-body {
-  padding-bottom: 0 !important;
+.archive:has(> .beyond-research-page) > .page__title { display: none; }
+
+.beyond-research-page {
+  --beyond-gap: clamp(0.45rem, 0.9vw, 0.75rem);
+  max-width: 1180px;
+  margin: 0 auto;
+}
+
+.beyond-research-intro {
+  display: grid;
+  grid-template-columns: 0.85fr 1.15fr;
+  gap: clamp(2rem, 6vw, 5rem);
+  align-items: end;
+  padding: 0.5rem clamp(0rem, 1.6vw, 1.25rem) clamp(1.5rem, 3vw, 2.25rem);
+}
+
+.beyond-research-intro h1 {
+  margin: 0;
+  color: var(--global-text-color);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(3rem, 6vw, 5.25rem);
+  font-weight: 400;
+  line-height: 0.93;
+  letter-spacing: -0.035em;
+}
+
+.beyond-research-intro p {
+  margin: 0 0 0.15rem;
+  color: var(--global-text-color-light);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1rem, 1.55vw, 1.25rem);
+  line-height: 1.6;
+}
+
+.beyond-research-page figure { margin: 0; }
+
+.beyond-research-page img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  border-radius: 2px;
+  object-fit: contain;
+}
+
+.beyond-research-gallery { margin-top: clamp(0.8rem, 1.7vw, 1.4rem); }
+.beyond-research-gallery__row { display: grid; align-items: start; gap: var(--beyond-gap); }
+.beyond-research-gallery__row + .beyond-research-gallery__row { margin-top: clamp(1rem, 2vw, 1.6rem); }
+.beyond-research-gallery__row--three { grid-template-columns: 7fr 7fr 3fr; }
+.beyond-research-gallery__row--two { grid-template-columns: 1.19fr 1fr; }
+.beyond-research-gallery__stack { display: grid; align-content: start; gap: var(--beyond-gap); min-width: 0; }
+.beyond-research-gallery figure { min-width: 0; }
+
+@media (max-width: 700px) {
+  .beyond-research-intro { grid-template-columns: 1fr; gap: 1.15rem; padding-right: 0; padding-left: 0; }
+  .beyond-research-gallery__row--three, .beyond-research-gallery__row--two { grid-template-columns: 1fr; }
 }
