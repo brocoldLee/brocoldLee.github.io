@@ -8,9 +8,9 @@ date: 2025-11-01
 date_display: "November 2025"
 location: "University of Seoul, Seoul, South Korea"
 excerpt: "Oral presentation in the Next-Generation Researcher session on resistance and aerobic exercise interventions for balance in individuals with smartphone overdependence."
-thumbnail: "/5BF87423-04EC-4DBA-BD25-496B1C7A8AF3_1_105_c.jpeg"
+thumbnail: "/33BE2188-DFF7-4233-9784-9E3E022D6F30_1_105_c.jpeg"
 ---
 
 Oral presentation in the Next-Generation Researcher session at the 2025 Urban Elderly Health Exercise Research Institute Fall Academic Seminar.
 
-![](/5BF87423-04EC-4DBA-BD25-496B1C7A8AF3_1_105_c.jpeg)
+![](/33BE2188-DFF7-4233-9784-9E3E022D6F30_1_105_c.jpeg)
