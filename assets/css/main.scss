@@ -214,3 +214,16 @@
     display: none;
   }
 }
+
+
+/* ================================
+   Hide site footer
+   ================================ */
+
+.page__footer {
+  display: none !important;
+}
+
+body {
+  padding-bottom: 0 !important;
+}
