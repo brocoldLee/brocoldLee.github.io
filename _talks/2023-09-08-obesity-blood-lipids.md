@@ -7,6 +7,7 @@ venue: "International Congress on Obesity and Metabolic Syndrome"
 date: 2023-09-08
 location: "International Conference"
 excerpt: "Poster presentation on metabolic and inflammatory markers in childhood obesity."
+thumbnail: "/images/obesity.jpg"
 ---
 Poster presentation on metabolic and inflammatory markers in childhood obesity.
 ![](/images/obesity.jpg)
