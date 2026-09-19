@@ -1,11 +1,12 @@
 ---
-title: "Excellence Award (2025)"
-excerpt: "Excellence Award, Korea Institute of Sport Science (2025)"
+title: "Excellence Award, 24th Sports Science Research Award"
 collection: portfolio
+organization: "Korea Institute of Sport Science"
+year: 2025
+order: 9
+permalink: /portfolio/2025-sports-science-research-award/
 ---
 
-**Excellence Award**  
+**Excellence Award, 24th Sports Science Research Award**  
 Korea Institute of Sport Science  
-2025  
-
-This award was presented in recognition of outstanding research contributions in sports science.
+2025
