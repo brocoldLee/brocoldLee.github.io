@@ -1,11 +1,12 @@
 ---
-title: "Korean Society of Physical Education President’s Award (2024)"
-excerpt: "President’s Award, Korean Society of Physical Education (2024)"
+title: "President's Award, 2024 Sports Safety Research Paper Competition"
 collection: portfolio
+organization: "Sports Safety Foundation"
+year: 2024
+order: 7
+permalink: /portfolio/2024-sports-safety-paper-award/
 ---
 
-**Korean Society of Physical Education President’s Award**  
-Korean Society of Physical Education  
-2024  
-
-This award was presented in recognition of excellence in research in the field of sports science.
+**President's Award, 2024 Sports Safety Research Paper Competition**  
+Sports Safety Foundation  
+2024
