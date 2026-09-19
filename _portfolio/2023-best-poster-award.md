@@ -1,11 +1,12 @@
 ---
-title: "Best Poster Award (2023)"
-excerpt: "Best Poster Award, Korean Society of Exercise Physiology (2023)"
+title: "Outstanding Poster Award"
 collection: portfolio
+organization: "Korean Society of Exercise Physiology"
+year: 2023
+order: 5
+permalink: /portfolio/2023-outstanding-poster-award/
 ---
 
-**Best Poster Award**  
+**Outstanding Poster Award**  
 Korean Society of Exercise Physiology  
-2023  
-
-This award was presented for the best poster presentation at the academic conference.
+2023
