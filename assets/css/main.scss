@@ -41,3 +41,164 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* ================================
+   Presentation Cards
+   ================================ */
+
+.presentation-card {
+  display: grid;
+  grid-template-columns: 180px minmax(0, 1fr) 24px;
+  gap: 1.2rem;
+  align-items: center;
+
+  padding: 1.1rem 0;
+  border-top: 1px solid rgba(127, 127, 127, 0.25);
+
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+.presentation-card:last-child {
+  border-bottom: 1px solid rgba(127, 127, 127, 0.25);
+}
+
+
+/* Thumbnail */
+
+.presentation-card__media {
+  width: 180px;
+}
+
+.presentation-card__image {
+  display: block;
+  width: 180px;
+  height: 110px;
+
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+
+/* Placeholder when no image exists */
+
+.presentation-card__placeholder {
+  width: 180px;
+  height: 110px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: rgba(127, 127, 127, 0.10);
+  border-radius: 5px;
+
+  font-size: 0.75rem;
+  opacity: 0.6;
+}
+
+
+/* Text area */
+
+.presentation-card__content {
+  min-width: 0;
+}
+
+.presentation-card__title {
+  margin: 0 0 0.3rem 0;
+
+  font-size: 1.05rem;
+  line-height: 1.35;
+}
+
+.presentation-card__venue {
+  margin-bottom: 0.15rem;
+
+  font-size: 0.88rem;
+  line-height: 1.4;
+
+  opacity: 0.78;
+}
+
+.presentation-card__meta {
+  margin-bottom: 0.4rem;
+
+  font-size: 0.82rem;
+  opacity: 0.65;
+}
+
+
+/* Oral / Poster badge */
+
+.presentation-card__badge {
+  display: inline-block;
+
+  margin-bottom: 0.4rem;
+  padding: 0.18rem 0.55rem;
+
+  border-radius: 999px;
+
+  background: rgba(0, 110, 220, 0.10);
+  color: #006dcc;
+
+  font-size: 0.72rem;
+}
+
+
+/* Short description */
+
+.presentation-card__excerpt {
+  font-size: 0.84rem;
+  line-height: 1.45;
+
+  opacity: 0.72;
+}
+
+
+/* Arrow */
+
+.presentation-card__arrow {
+  font-size: 1.8rem;
+  opacity: 0.4;
+
+  text-align: right;
+}
+
+
+/* Hover */
+
+.presentation-card:hover .presentation-card__title {
+  text-decoration: underline;
+}
+
+
+/* Mobile */
+
+@media (max-width: 700px) {
+
+  .presentation-card {
+    grid-template-columns: 110px minmax(0, 1fr);
+    gap: 0.8rem;
+  }
+
+  .presentation-card__media {
+    width: 110px;
+  }
+
+  .presentation-card__image,
+  .presentation-card__placeholder {
+    width: 110px;
+    height: 78px;
+  }
+
+  .presentation-card__arrow {
+    display: none;
+  }
+
+  .presentation-card__title {
+    font-size: 0.95rem;
+  }
+
+  .presentation-card__excerpt {
+    display: none;
+  }
+}
