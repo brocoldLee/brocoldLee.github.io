@@ -8,12 +8,10 @@ redirect_from:
 
 {% include base_path %}
 
-[View PDF CV](/files/HyeongChan_Lee_CV.pdf){: .btn .btn--primary }
-
 Education
 ======
-* M.S. in Exercie physiolpogy, University of seoul, 2026
-* B.S. in Sports science, University of seoul, 2024
+* M.S. in Exercise Physiology, University of Seoul, 2026
+* B.S. in Sports Science, University of Seoul, 2024
 
 Work experience
 ======
@@ -54,7 +52,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Presentaions
+Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
