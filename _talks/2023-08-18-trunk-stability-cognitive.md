@@ -6,6 +6,8 @@ permalink: /talks/2023-trunk-stability-cognitive
 venue: "35th International Sport Science Congress"
 date: 2023-08-18
 location: "South Korea"
+thumbnail: "/images/trunk-cognitive.jpg"
 ---
 
 Poster presentation at the International Sport Science Congress.
+![](/images/trunk-cognitive.jpg)
