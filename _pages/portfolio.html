@@ -7,8 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% assign awards = site.portfolio | sort: "order" | reverse %}
+{% for post in awards %}
+  {% include archive-single-award.html %}
 {% endfor %}
-
