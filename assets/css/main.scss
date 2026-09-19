@@ -47,124 +47,133 @@
 
 .presentation-card {
   display: grid;
-  grid-template-columns: 180px minmax(0, 1fr) 24px;
-  gap: 1.2rem;
+  grid-template-columns: 130px minmax(0, 1fr) 18px;
+  gap: 0.9rem;
   align-items: center;
 
-  padding: 1.1rem 0;
-  border-top: 1px solid rgba(127, 127, 127, 0.25);
+  padding: 0.8rem 0;
+  border-top: 1px solid rgba(127, 127, 127, 0.22);
 
   color: inherit !important;
   text-decoration: none !important;
 }
 
 .presentation-card:last-child {
-  border-bottom: 1px solid rgba(127, 127, 127, 0.25);
+  border-bottom: 1px solid rgba(127, 127, 127, 0.22);
 }
 
 
-/* Thumbnail */
+/* Thumbnail box */
 
 .presentation-card__media {
-  width: 180px;
+  width: 130px;
+  height: 82px;
+
+  overflow: hidden;
+  border-radius: 4px;
 }
+
+
+/* Force every thumbnail to exactly same size */
 
 .presentation-card__image {
   display: block;
-  width: 180px;
-  height: 110px;
+
+  width: 130px !important;
+  height: 82px !important;
+  max-width: none !important;
 
   object-fit: cover;
-  border-radius: 5px;
+  object-position: center;
+
+  margin: 0 !important;
+  border-radius: 4px;
 }
 
 
-/* Placeholder when no image exists */
+/* Placeholder */
 
 .presentation-card__placeholder {
-  width: 180px;
-  height: 110px;
+  width: 130px;
+  height: 82px;
 
   display: flex;
   align-items: center;
   justify-content: center;
 
   background: rgba(127, 127, 127, 0.10);
-  border-radius: 5px;
 
-  font-size: 0.75rem;
+  font-size: 0.68rem;
   opacity: 0.6;
 }
 
 
-/* Text area */
+/* Text */
 
 .presentation-card__content {
   min-width: 0;
 }
 
 .presentation-card__title {
-  margin: 0 0 0.3rem 0;
+  margin: 0 0 0.22rem 0;
 
-  font-size: 1.05rem;
-  line-height: 1.35;
+  font-size: 0.95rem;
+  line-height: 1.3;
 }
 
 .presentation-card__venue {
-  margin-bottom: 0.15rem;
+  margin-bottom: 0.1rem;
 
-  font-size: 0.88rem;
-  line-height: 1.4;
+  font-size: 0.78rem;
+  line-height: 1.35;
 
   opacity: 0.78;
 }
 
 .presentation-card__meta {
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.3rem;
 
-  font-size: 0.82rem;
-  opacity: 0.65;
+  font-size: 0.74rem;
+  opacity: 0.62;
 }
 
 
-/* Oral / Poster badge */
+/* Presentation type */
 
 .presentation-card__badge {
   display: inline-block;
 
-  margin-bottom: 0.4rem;
-  padding: 0.18rem 0.55rem;
+  margin-bottom: 0.25rem;
+  padding: 0.12rem 0.42rem;
 
   border-radius: 999px;
 
   background: rgba(0, 110, 220, 0.10);
   color: #006dcc;
 
-  font-size: 0.72rem;
+  font-size: 0.65rem;
 }
 
 
-/* Short description */
+/* Description */
 
 .presentation-card__excerpt {
-  font-size: 0.84rem;
-  line-height: 1.45;
+  font-size: 0.75rem;
+  line-height: 1.35;
 
-  opacity: 0.72;
+  opacity: 0.7;
 }
 
 
 /* Arrow */
 
 .presentation-card__arrow {
-  font-size: 1.8rem;
-  opacity: 0.4;
+  font-size: 1.3rem;
+  opacity: 0.35;
 
   text-align: right;
 }
 
-
-/* Hover */
 
 .presentation-card:hover .presentation-card__title {
   text-decoration: underline;
@@ -176,18 +185,21 @@
 @media (max-width: 700px) {
 
   .presentation-card {
-    grid-template-columns: 110px minmax(0, 1fr);
-    gap: 0.8rem;
+    grid-template-columns: 90px minmax(0, 1fr);
+    gap: 0.65rem;
+
+    padding: 0.7rem 0;
   }
 
   .presentation-card__media {
-    width: 110px;
+    width: 90px;
+    height: 62px;
   }
 
   .presentation-card__image,
   .presentation-card__placeholder {
-    width: 110px;
-    height: 78px;
+    width: 90px !important;
+    height: 62px !important;
   }
 
   .presentation-card__arrow {
@@ -195,7 +207,7 @@
   }
 
   .presentation-card__title {
-    font-size: 0.95rem;
+    font-size: 0.88rem;
   }
 
   .presentation-card__excerpt {
