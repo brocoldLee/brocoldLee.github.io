@@ -7,6 +7,7 @@ venue: "Spring Conference of the Korean Stroke Society"
 date: 2023-04-21
 location: "South Korea"
 excerpt: "Poster presentation on rehabilitation interventions in stroke patients."
+thumbnail: "/images/stroke.jpg"
 ---
 
 Poster presentation on rehabilitation interventions in stroke patients.
