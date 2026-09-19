@@ -10,4 +10,5 @@ thumbnail: "/images/trunk-cognitive.jpg"
 ---
 
 Poster presentation at the International Sport Science Congress.
+
 ![](/images/trunk-cognitive.jpg)
