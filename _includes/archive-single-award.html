@@ -1,21 +1,17 @@
 {% include base_path %}
 
-<a class="presentation-card" href="{{ base_path }}{{ post.url }}">
+<a class="presentation-card{% unless post.thumbnail %} presentation-card--no-image{% endunless %}" href="{{ base_path }}{{ post.url }}">
 
-  <div class="presentation-card__media">
-    {% if post.thumbnail %}
+  {% if post.thumbnail %}
+    <div class="presentation-card__media">
       <img
         src="{{ post.thumbnail }}"
         alt="{{ post.title }}"
         class="presentation-card__image"
         {% if post.thumbnail_fit %}style="object-fit: {{ post.thumbnail_fit }};"{% endif %}
       >
-    {% else %}
-      <div class="presentation-card__placeholder">
-        Award
-      </div>
-    {% endif %}
-  </div>
+    </div>
+  {% endif %}
 
   <div class="presentation-card__content">
 
