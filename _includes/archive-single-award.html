@@ -1,0 +1,43 @@
+{% include base_path %}
+
+<a class="presentation-card" href="{{ base_path }}{{ post.url }}">
+
+  <div class="presentation-card__media">
+    {% if post.thumbnail %}
+      <img
+        src="{{ post.thumbnail }}"
+        alt="{{ post.title }}"
+        class="presentation-card__image"
+      >
+    {% else %}
+      <div class="presentation-card__placeholder">
+        Award
+      </div>
+    {% endif %}
+  </div>
+
+  <div class="presentation-card__content">
+
+    <h2 class="presentation-card__title">
+      {{ post.title }}
+    </h2>
+
+    {% if post.organization %}
+      <div class="presentation-card__venue">
+        {{ post.organization }}
+      </div>
+    {% endif %}
+
+    {% if post.year %}
+      <div class="presentation-card__meta">
+        {{ post.year }}
+      </div>
+    {% endif %}
+
+  </div>
+
+  <div class="presentation-card__arrow">
+    ›
+  </div>
+
+</a>
