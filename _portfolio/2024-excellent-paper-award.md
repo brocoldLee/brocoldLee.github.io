@@ -5,8 +5,12 @@ organization: "University of Seoul"
 year: 2024
 order: 4
 permalink: /portfolio/2024-excellent-paper-award/
+thumbnail: "/images/award-2024-excellent-paper.svg"
+thumbnail_fit: "contain"
 ---
 
 **Excellent Paper Award**  
 University of Seoul  
 2024
+
+![](/images/award-2024-excellent-paper.svg)
