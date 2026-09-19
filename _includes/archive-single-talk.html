@@ -29,7 +29,9 @@
     {% endif %}
 
     <div class="presentation-card__meta">
-      {% if post.date %}
+      {% if post.date_display %}
+        {{ post.date_display }}
+      {% elsif post.date %}
         {{ post.date | date: "%B %Y" }}
       {% endif %}
 
